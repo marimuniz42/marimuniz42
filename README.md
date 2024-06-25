@@ -4,7 +4,7 @@
 
 - 😎 Currently I'm studying Computer Science at Veiga de Almeida University
 - 📫 How to reach me marian.muniz.rocha@gmail.com
-- 💼 Currently working at Walcenter as Software development intern
+- 💼 Currently working at INETEP as Computer Science intern
 
 ---
 
